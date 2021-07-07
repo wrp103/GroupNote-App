@@ -1,0 +1,11 @@
+This folder contains the files used to conduct the methodology discussed in the report.
+
+Each phase of software development is included. Each phase folder contains the android files and the test scripts.
+The app and tests are updated at each phase to research into how the automated test scripts handle changes through development.
+
+The SQL folder contains a simple database creation script.
+The PHP folder contains files that are used by the android device to run queries on the database. 
+
+There are many hurdles to jump to be able to successfully get this project up and running to test. 
+It requires signficant time to install the various required applications, updates and frameworks. 
+Please contact me if needed.

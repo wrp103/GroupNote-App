@@ -1,0 +1,3 @@
+The files contained in this folder are copied from the android studio application source folder.
+network_security_config.xml and Database.java files are coded with location to the PHP files based on 
+the developers setup and must be altered to suit.

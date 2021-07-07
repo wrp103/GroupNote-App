@@ -1,0 +1,2 @@
+This APK can be loaded into an IDE to view and test the application. It is coded with the developers server location, which
+will be different to other users. This would need to be modified to suit the current testers machine and server location.

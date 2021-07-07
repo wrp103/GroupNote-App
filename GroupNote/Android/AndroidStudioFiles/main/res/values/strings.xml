@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GroupNote</string>
+    <string name="login_username_text">Enter your username</string>
+    <string name="login_password_text">Enter your password</string>
+    <string name="login_button_text">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="register_username_text">Enter your username</string>
+    <string name="register_password_text">Enter your password</string>
+    <string name="register_email_text">Enter your email address</string>
+    <string name="register_button_text">Register</string>
+    <string name="profile_firstname_text">Enter your first name</string>
+    <string name="profile_lastname_text">Enter your last name</string>
+    <string name="profile_phone_text">Enter your phone number</string>
+    <string name="save_profile_button_text">Save</string>
+    <string name="create_new_group">Create New Group</string>
+    <string name="my_groups">My Groups</string>
+    <string name="manage_profile">Manage Profile</string>
+    <string name="logout">Logout</string>
+    <string name="group_note">Group Note</string>
+    <string name="enter_group_name">Enter group name</string>
+    <string name="create">Create</string>
+    <string name="create_group">Create Group</string>
+    <string name="add_users_to_group">Add Users To Group</string>
+    <string name="enter_username_to_add">Enter username to add</string>
+    <string name="add_user">Add User</string>
+    <string name="note_editor">Note Editor</string>
+    <string name="make_your_note_here">Write your note here</string>
+    <string name="new_note">New Note</string>
+    <string name="manage_notes">Manage Notes</string>
+    <string name="title">Title</string>
+    <string name="delete_button">delete button</string>
+    <string name="edit_button">edit button</string>
+    <string name="text">Text</string>
+    <string name="enter_note_title">Enter note title</string>
+    <string name="Groups">Groups</string>
+
+</resources>

@@ -1,0 +1,2 @@
+Files contained in this folder are used as a middle ground between the android device and the database.
+The files connect.php file should be adjusted to the users database name and loction.

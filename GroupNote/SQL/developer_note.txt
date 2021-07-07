@@ -1,0 +1,2 @@
+This is a very simple database to store users, profiles, notes and groups.
+The PHP files run the queries with specific parameters sent by the mobile device.
